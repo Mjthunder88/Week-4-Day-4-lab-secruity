@@ -1,0 +1,29 @@
+Part 2 
+
+cypher to encrypt: " I love cryptography!"
+
+I will shift every letter by 4 and wrap back to A
+
+result: M pszi gvctxskvetlc!
+        "I love cryptography!"
+
+
+
+
+
+Part 3 
+
+Colonial Pipeline company ransomeware attack (2021)
+
+The hackers known as DarkSide $4.4 million worth in bitcoin. All they wanted was money. 
+They hacked into a major pipleine company that supplied fuel to the East coast in the US.
+It shut down tons of fuel line sytems for several days once they got in. 
+
+They got in due to employee passwords being leaked on the dark web. DarkSide got in using a private network account. 
+this account allowed employees to remotly acess the compnay computers. 
+
+They say that the VPN account didn't use a multifactor authentiation system to protectet againts this. 
+
+They hired a cybersecurity frim known as Dragos Inc to help protect their stysem and take care of the problem.
+
+
