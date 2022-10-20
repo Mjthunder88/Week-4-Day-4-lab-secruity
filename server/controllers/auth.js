@@ -24,9 +24,11 @@ module.exports = {
       bcrypt.compare(password, userData.password, (error, success) => {
         if (success) {
           res.status(200).send({sucess: true, username: userData.username, email: userData.email, lastName: userData.lastName, firstName: userData.firstName})
+          return
         } else if (error) {
           
           res.status(400).send("User not found.")
+          return
         }
       } )
     },
